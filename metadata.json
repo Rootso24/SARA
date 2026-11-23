@@ -1,0 +1,6 @@
+{
+  "name": "HEY OISHI AI - ঐশী বাংলা এআই সহকারী",
+  "description": "HEY OISHI AI (ঐশী) - অ্যানিমেটেড অ্যাভাটার, বাংলা কণ্ঠস্বর, ডিপসিক ও জেমিনি বুদ্ধিমত্তা সমৃদ্ধ স্মার্ট পার্সোনাল এআই অ্যাসিস্ট্যান্ট।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
